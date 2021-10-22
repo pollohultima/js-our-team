@@ -3,31 +3,31 @@ const ultima =
         {
             'nickname': 'Pollo',
             'role': 'bass_player',
-            'age': '27'
+            'image': 'https://picsum.photos/id/1/200/300'
         },
 
         {
             'nickname': 'Trizio',
             'role': 'lead_guitar_player',
-            'age': '25'
+            'image': 'https://picsum.photos/id/1/200/300'
         },
 
         {
             'nickname': 'Massi',
             'role': 'rythm_guitar_player',
-            'age': '30'
+            'image': 'https://picsum.photos/id/1/200/300'
         },
 
         {
             'nickname': 'Ceres',
             'role': 'drummer',
-            'age': '28'
+            'image': 'https://picsum.photos/id/1/200/300'
         },
 
         {
             'nickname': 'Toffa',
             'role': 'vocalist',
-            'age': '22'
+            'image': 'https://picsum.photos/id/1/200/300'
         },
     ];
 

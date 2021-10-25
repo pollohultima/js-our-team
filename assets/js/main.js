@@ -31,4 +31,10 @@ const ultima =
         },
     ];
 
-console.log(ultima);
+for (let index = 0; index < ultima.length; index++) {
+    const member = ultima[index];
+    console.log('Name:', member.nickname);
+    console.log('Role:', member.role);
+    console.log('Image:', member.image);
+    console.log('***********************');
+}
